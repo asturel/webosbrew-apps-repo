@@ -1,6 +1,6 @@
 title: Hyperion.NG
-iconUri: https://raw.githubusercontent.com/webosbrew/hyperion.ng-webos-loader/master/assets/logo_big.png
-manifestUrl: https://github.com/webosbrew/hyperion.ng-webos-loader/releases/latest/download/org.webosbrew.hyperion.ng.loader.manifest.json
+iconUri: https://raw.githubusercontent.com/asturel/hyperion.ng-webos-loader/master/assets/logo_big.png
+manifestUrl: https://github.com/asturel/hyperion.ng-webos-loader/releases/latest/download/org.webosbrew.hyperion.ng.loader.manifest.json
 category: multimedia
 pool: main
 description: |
